@@ -44,3 +44,7 @@ A Bomberman-style 2D multiplayer/solo game built in Unity. Place bombs, destroy 
 3. Open the main scene (e.g. `GameScene`)
 4. Press Play in the Unity Editor
 ---
+
+
+https://github.com/user-attachments/assets/e85b1ace-61a4-4bdf-bdcd-551109fb1436
+
